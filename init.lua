@@ -91,7 +91,7 @@ require('lazy').setup({
         enable_line_number = false,
         buttons = false,  -- Disable buttons to avoid the error
         show_time = true,  -- Enable timer
-	client_id = "1314902038827630632", -- Custom client id	
+	-- client_id = "|| add your own ||", -- Custom client id	
 
 
         -- Rich Presence text options
