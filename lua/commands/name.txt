@@ -1,0 +1,4 @@
+Commands directory houses the custom made commands by me:
+They are (for now):
+1.) :SetupVenv -> for python
+2.) :New : self explanatory, directories end with /
